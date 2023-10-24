@@ -433,11 +433,11 @@ div#itemDetailPage {
 }
 
 .layout-mobile #itemDetailPage .btnPlay::after {
-  content: "Play";
+  content: "Riproduci";
 }
 
 .layout-mobile #itemDetailPage .btnResume::after {
-  content: "Resume";
+  content: "Riprendi";
 }
 
 .layout-mobile #itemDetailPage .btnDownload::after {
@@ -453,31 +453,31 @@ div#itemDetailPage {
 }
 
 .layout-mobile #itemDetailPage .btnShuffle::after {
-  content: "Shuffle";
+  content: "Mischia";
 }
 
 .layout-mobile #itemDetailPage .btnCancelSeriesTimer::after {
-  content: "Cancle Series";
+  content: "Cancella Serie";
 }
 
 .layout-mobile #itemDetailPage .btnCancelTimer::after {
-  content: "Stop Recording";
+  content: "Ferma Registrazione";
 }
 
 .layout-mobile #itemDetailPage .btnPlaystate::after {
-  content: "Watched";
+  content: "Visto";
 }
 
 .layout-mobile #itemDetailPage .btnUserRating::after {
-  content: "Favourite";
+  content: "Preferito";
 }
 
 .layout-mobile #itemDetailPage .btnSplitVersions::after {
-  content: "Split";
+  content: "Dividi";
 }
 
 .layout-mobile #itemDetailPage .btnMoreCommands::after {
-  content: "More";
+  content: "Di più";
 }
 
 .layout-mobile #itemDetailPage .detailButton {
